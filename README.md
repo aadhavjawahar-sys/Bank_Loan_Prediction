@@ -24,11 +24,24 @@ The model has around an 80% accuracy with both its training and testing data.
 ![Accuracy huh, not bad!](https://github.com/aadhavjawahar-sys/Bank_Loan_Prediction/blob/main/images/loan_accuracy.png)
 
 > From testing, it seems to not work with test inputs on a scale different from the provided data.
-
+ 
 ***
 
 ## Demonstration of working model
 
+In order to interact with my model, I built a simple graphical user interface system. Initially, the user sees this page with several input boxes, asking for both numerical and categorical inputs.
+
+> It has default inputs for one borrower added.
+
+![Accuracy huh, not bad!](https://github.com/aadhavjawahar-sys/Bank_Loan_Prediction/blob/main/images/ML1_1.png)
+
+After entering and manipulating the inputs, press the submit button.
+
+![Accuracy huh, not bad!](https://github.com/aadhavjawahar-sys/Bank_Loan_Prediction/blob/main/images/ML1_2.png)
+
+Finally, the output on whether the loan is **accepted** or **rejected** is listed in the output box.
+
+![Accuracy huh, not bad!](https://github.com/aadhavjawahar-sys/Bank_Loan_Prediction/blob/main/images/ML1_3.png)
 
 ***
 
