@@ -13,7 +13,7 @@ My recommendation compiles over 300 data points featuring borrowers demographics
 
 The *df1_loan* csv file is a publicly avaliable dataset located on [Kaggle](https://www.kaggle.com/datasets/vipin20/loan-application-data). It consists of a sample of 500 borrowers, though not all is *usable*. The dataset includes demographics about each debtor such as total income, property area, employment, and so on. Eight of these features are incorported in the current ML model. Thankfully, since this file was already in a easily usable format, no data processing was neccessary.
 
-![Pretty Cool Looking Data](https://github.com/aadhavjawahar-sys/Bank_Loan_Prediction/blob/main/Loan_file_display.png)
+![Pretty Cool Looking Data](https://github.com/aadhavjawahar-sys/Bank_Loan_Prediction/blob/main/images/Loan_file_display.png)
 
 ***
 
@@ -21,7 +21,7 @@ The *df1_loan* csv file is a publicly avaliable dataset located on [Kaggle](http
 
 The model has around an 80% accuracy with both its training and testing data.
 
-![Accuracy huh, not bad!](https://github.com/aadhavjawahar-sys/Bank_Loan_Prediction/blob/main/loan_accuracy.png)
+![Accuracy huh, not bad!](https://github.com/aadhavjawahar-sys/Bank_Loan_Prediction/blob/main/images/loan_accuracy.png)
 
 > From testing, it seems to not work with test inputs on a scale different from the provided data.
 
